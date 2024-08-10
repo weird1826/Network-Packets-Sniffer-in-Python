@@ -1,5 +1,4 @@
-# PRODIGY_CS_05
-## Network Packet Sniffer Tool in Python
+# Network Packet Sniffer Tool in Python
 - A python implementation for a network packet sniffer tool
 - Detects and Analyzes packets of ICMP, IGMP, TCP, UDP, DNS, HTTP, and HTTPS
 - Displays source IP, destination IP and the payload in the packet
